@@ -125,15 +125,20 @@ namespace WindowsFormsApp3
         }
         private void DisableButton()
         {
-            
-            
+
+            try
+            {
+
+
                 foreach (Control C in Controls)
                 {
                     Button b = (Button)C;
                     b.Enabled = false;
                 }
-            
-            
+            }
+            catch { }
+
+
         }
     }
 }

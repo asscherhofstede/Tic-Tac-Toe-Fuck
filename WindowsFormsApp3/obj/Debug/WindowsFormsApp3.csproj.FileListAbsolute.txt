@@ -8,3 +8,13 @@ C:\Users\asscher\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Window
 C:\Users\asscher\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\asscher\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\asscher\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\keviniseenlul\Tic-Tac-Toe-Fuck\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
